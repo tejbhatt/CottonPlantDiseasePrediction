@@ -1,3 +1,4 @@
+python-3.7.10
 appdirs==1.4.3
 certifi==2020.6.20
 click==7.1.2
@@ -9,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.15.1
 MarkupSafe==1.1.1
-numpy==1.18.1
+numpy==1.19.0
 pandas==1.0.1
 python-dateutil==2.8.1
 pytz==2019.3
@@ -21,4 +22,6 @@ Werkzeug==1.0.1
 wincertstore==0.2
 TensorFlow == 2.4.0
 Keras==2.4.3
+gunicorn==0.14.2
+requests==0.11.1
 
