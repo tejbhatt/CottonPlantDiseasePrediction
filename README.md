@@ -1,2 +1,2 @@
-# cottonplantdiseasebytej
+# cottonplantdiseaseprediction
  
